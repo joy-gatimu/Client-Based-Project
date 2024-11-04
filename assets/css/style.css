@@ -2782,7 +2782,7 @@ label {
 
 .counter-area {
   position: relative;
-  background-image: url(../img/counter/01.jpg);
+
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -6397,7 +6397,7 @@ label {
 
 .home-3 .footer-area{
   position: relative;
-  background-image: url(../img/footer/01.jpg);
+  
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
